@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mukunda Herbal Shampoo | Natural Herbal Hair Care</title>
+<meta name="description" content="Mukunda Herbal Shampoo with Amla, Reetha, Shikakai, Hibiscus, Methi Seeds, Flax Seeds, Rosemary, Aloe Vera, Curry Leaves, Neem and Tulsi. Available in 200ml and 500ml.">
+<meta name="keywords" content="herbal shampoo,natural shampoo,herbal hair care,natural hair care,amla reetha shikakai shampoo,amla herbal shampoo,shikakai shampoo,sulphate free shampoo,paraben free shampoo">
+<style>
+:root{--g:#174f32;--dg:#103d27;--gold:#d3a43a;--cream:#f8f3e7;--ink:#26352b;--muted:#657067;--line:#e7dcc5}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:#fffdf8;line-height:1.6;overflow-x:hidden}img{max-width:100%;display:block}a{text-decoration:none;color:inherit}
+.top{background:var(--dg);color:white;text-align:center;padding:8px 10px;font-size:13px}.top a{font-weight:700}
+header{position:sticky;top:0;z-index:20;background:#fffdf8ee;border-bottom:1px solid var(--line);backdrop-filter:blur(8px)}
+.nav{max-width:1160px;margin:auto;min-height:70px;padding:9px 20px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{font:700 23px Georgia,serif;color:var(--g);white-space:nowrap}.brand small{display:block;text-align:center;font:700 8px Arial;letter-spacing:1.6px;color:#68736b}.links{display:flex;gap:22px;font-size:14px}.cta{background:var(--g);color:white;padding:10px 17px;border-radius:24px;font-weight:700;font-size:13px}
+.hero{background:radial-gradient(circle at 10% 15%,#d3a43a20,transparent 28%),radial-gradient(circle at 90% 80%,#174f3220,transparent 30%),var(--cream);padding:55px 20px 65px}.heroIn{max-width:1160px;margin:auto;display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center}.eyebrow{color:var(--g);font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:2px;margin-bottom:10px}h1,h2{font-family:Georgia,serif;color:var(--g);line-height:1.08}h1{font-size:clamp(40px,5vw,66px);margin:0 0 17px}.hero p{font-size:18px;color:var(--muted);margin:0 0 22px}.heroImg{border-radius:25px;overflow:hidden;box-shadow:0 25px 60px #3031222e}.badges{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0}.badge{background:white;border:1px solid var(--line);border-radius:30px;padding:7px 11px;font-size:12px;font-weight:700}.prices{display:flex;gap:10px;margin:20px 0;flex-wrap:wrap}.price{background:white;border:1px solid var(--line);border-radius:13px;padding:8px 16px}.price span{display:block;font-size:12px;color:var(--muted)}.price b{font-size:22px;color:var(--g)}.buttons{display:flex;gap:10px;flex-wrap:wrap}.btn{display:inline-flex;align-items:center;justify-content:center;min-height:49px;padding:0 22px;border-radius:26px;font-weight:800}.green{background:var(--g);color:white}.gold{background:var(--gold);color:white}
+section{padding:70px 20px}.inner{max-width:1080px;margin:auto}.title{text-align:center;max-width:760px;margin:0 auto 38px}h2{font-size:clamp(31px,4vw,46px);margin:0 0 12px}.title p{color:var(--muted);font-size:16px;margin:0}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.card{background:var(--cream);border:1px solid var(--line);border-radius:17px;padding:22px 15px;text-align:center}.card .icon{font-size:27px}.card h3{color:var(--g);font-size:16px;margin:7px 0}.card p{font-size:13px;color:var(--muted);margin:0}
+.cream{background:var(--cream)}.ingredients{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:900px;margin:auto}.ingredient{background:white;border:1px solid var(--line);border-radius:13px;padding:14px;text-align:center;color:var(--g);font-weight:700}
+.trio,.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.trio .card,.steps .card{text-align:left;background:white}.trio h3,.steps h3{color:var(--g);font-family:Georgia,serif;font-size:24px}.stepno{width:38px;height:38px;border-radius:50%;background:var(--g);color:white;display:grid;place-items:center;font-weight:800}
+.buy{background:var(--g);color:white}.buyIn{max-width:1050px;margin:auto;display:grid;grid-template-columns:1fr 1fr;gap:30px;align-items:center}.buy h2{color:white}.buy p{color:#dce8df}.sizes{display:grid;grid-template-columns:1fr 1fr;gap:12px}.size{background:white;color:var(--ink);border-radius:17px;padding:22px;text-align:center}.size h3{color:var(--g);margin:0}.amount{font-size:30px;font-weight:900;color:var(--g);margin:6px 0 12px}.size .btn{width:100%}
+.faq{max-width:800px;margin:auto}details{background:white;border:1px solid var(--line);border-radius:13px;padding:16px;margin-bottom:9px}summary{cursor:pointer;color:var(--g);font-weight:800}details p{color:var(--muted);margin:10px 0 0}
+footer{background:#102e1f;color:#dce7df;text-align:center;padding:30px 20px 90px;font-size:14px}.sticky{display:none}
+@media(max-width:900px){.heroIn,.buyIn{grid-template-columns:1fr}.heroImg{order:-1;max-width:620px;margin:auto}.links{display:none}.grid4{grid-template-columns:1fr 1fr}.ingredients{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:600px){.top{font-size:11px;white-space:nowrap}.nav{min-height:62px;padding:8px 14px}.brand{font-size:18px}.brand small{font-size:6px}.cta{padding:8px 11px;font-size:11px}.hero{padding:28px 15px 45px}.heroIn{gap:25px}h1{font-size:38px}.hero p{font-size:16px}.badges{gap:6px}.badge{font-size:10px;padding:6px 8px}.prices{display:grid;grid-template-columns:1fr 1fr}.price{padding:8px 10px}.buttons{display:grid;grid-template-columns:1fr}.btn{width:100%}section{padding:50px 15px}.grid4{gap:9px}.card{padding:17px 9px}.card h3{font-size:14px}.card p{font-size:11px}.ingredients{grid-template-columns:1fr 1fr;gap:8px}.ingredient{padding:12px 7px;font-size:12px}.trio,.steps,.buyIn{grid-template-columns:1fr}.sizes{grid-template-columns:1fr 1fr}.size{padding:17px 9px}.amount{font-size:26px}.sticky{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:30;background:white;border-top:1px solid var(--line);padding:8px;gap:7px;box-shadow:0 -5px 20px #0002}.sticky a{flex:1;text-align:center;padding:10px 5px;border-radius:10px;font-size:12px;font-weight:800}.wa{background:#168b49;color:white}.ord{background:var(--g);color:white}footer{padding-bottom:75px}}
+@media(max-width:360px){h1{font-size:34px}.sizes{grid-template-columns:1fr}.top{font-size:10px}}
+</style>
+</head>
+<body>
+<div class="top">🌿 100% Herbal Ingredients &nbsp;|&nbsp; Call / WhatsApp: <a href="tel:+919989918183">+91 99899 18183</a></div>
+<header><nav class="nav"><a class="brand" href="../index.html" aria-label="Back to Mukunda Herbals home">MUKUNDA HERBALS<small>PURE. NATURAL. TRADITIONAL WELLNESS.</small></a><div class="links"><a href="../index.html#shop">Shop All</a><a href="#ingredients">Ingredients</a><a href="#benefits">Benefits</a><a href="#use">How to Use</a><a href="#faq">FAQ</a></div><a class="cta" href="https://wa.me/919989918183?text=Hi%2C%20I%27m%20interested%20in%20Mukunda%20Herbal%20Shampoo.%20Please%20share%20ordering%20details.">WhatsApp</a></nav></header>
+
+<main>
+<section class="hero"><div class="heroIn"><div>
+<div class="eyebrow">Mukunda Herbals • Herbal Hair Care</div>
+<h1>Natural Herbal Care for Your Everyday Hair Routine.</h1>
+<p>Discover Mukunda Herbal Shampoo with Amla, Reetha, Shikakai, Hibiscus, Methi Seeds, Flax Seeds, Rosemary, Aloe Vera, Curry Leaves, Neem and Tulsi.</p>
+<div class="badges"><span class="badge">🌿 100% Herbal Ingredients</span><span class="badge">✓ Sulphate &amp; Paraben Free</span><span class="badge">✓ No Artificial Fragrance</span><span class="badge">✓ Suitable for All Hair Types</span></div>
+<div class="prices"><div class="price"><span>200 ml</span><b>₹249</b></div><div class="price"><span>500 ml</span><b>₹499</b></div></div>
+<div class="buttons"><a class="btn green" href="#order">🛒 Order Now</a><a class="btn gold" href="https://wa.me/919989918183?text=Hi%2C%20I%27m%20interested%20in%20Mukunda%20Herbal%20Shampoo.%20Please%20share%20ordering%20details.">💬 WhatsApp to Order</a></div>
+</div><div class="heroImg"><img src="images/mukunda-herbal-shampoo.png" alt="Mukunda Herbal Shampoo"></div></div></section>
+
+<section id="benefits"><div class="inner"><div class="title"><div class="eyebrow">Why Mukunda</div><h2>A Thoughtful Herbal Hair-Care Choice</h2><p>A clean, focused herbal shampoo experience for your everyday routine.</p></div><div class="grid4">
+<div class="card"><div class="icon">🌿</div><h3>Herbal Ingredients</h3><p>A blend of traditional botanical ingredients.</p></div>
+<div class="card"><div class="icon">🍃</div><h3>Traditional Care</h3><p>Inspired by Indian herbal hair-care practices.</p></div>
+<div class="card"><div class="icon">🧴</div><h3>All Hair Types</h3><p>Designed for everyday hair-washing routines.</p></div>
+<div class="card"><div class="icon">✨</div><h3>Sulphate &amp; Paraben Free</h3><p>For customers seeking a sulphate-free and paraben-free shampoo.</p></div>
+</div></div></section>
+
+<section id="ingredients" class="cream"><div class="inner"><div class="title"><div class="eyebrow">The Herbal Blend</div><h2>A Blend of Traditional Herbal Ingredients</h2><p>Selected ingredients that bring a traditional herbal touch to everyday hair care.</p></div><div class="ingredients">
+<div class="ingredient">Amla</div><div class="ingredient">Reetha</div><div class="ingredient">Shikakai</div><div class="ingredient">Hibiscus</div><div class="ingredient">Methi Seeds</div><div class="ingredient">Flax Seeds</div><div class="ingredient">Rosemary</div><div class="ingredient">Aloe Vera</div><div class="ingredient">Curry Leaves</div><div class="ingredient">Neem</div><div class="ingredient">Tulsi</div>
+</div></div></section>
+
+<section><div class="inner"><div class="title"><div class="eyebrow">Traditional Hair Care</div><h2>Amla • Reetha • Shikakai</h2><p>A familiar trio in traditional Indian hair-care routines.</p></div><div class="trio"><div class="card"><h3>Amla</h3><p>A traditional botanical ingredient widely used in Indian hair-care practices.</p></div><div class="card"><h3>Reetha</h3><p>A traditional cleansing ingredient commonly found in herbal hair-care preparations.</p></div><div class="card"><h3>Shikakai</h3><p>A classic herbal hair-care ingredient used in traditional routines.</p></div></div></div></section>
+
+<section id="use" class="cream"><div class="inner"><div class="title"><div class="eyebrow">Simple Routine</div><h2>How to Use</h2><p>Follow the usage instructions provided with the product.</p></div><div class="steps"><div class="card"><div class="stepno">01</div><h3>Wet</h3><p>Wet your hair thoroughly for better foaming.</p></div><div class="card"><div class="stepno">02</div><h3>Massage</h3><p>Take shampoo on your palm and gently massage it onto the scalp and through the hair until a rich herbal lather forms.</p></div><div class="card"><div class="stepno">03</div><h3>Rinse</h3><p>Rinse thoroughly with clean water.</p></div></div></div></section>
+
+<section id="order" class="buy"><div class="buyIn"><div><div class="eyebrow" style="color:#e8c76a">Choose Your Size</div><h2>Bring Herbal Hair Care Into Your Everyday Routine.</h2><p>Choose your size and order directly through WhatsApp.</p><p><strong>Call / WhatsApp: +91 99899 18183</strong></p></div><div class="sizes">
+<div class="size"><h3>200 ml</h3><div class="amount">₹249</div><a class="btn green" href="https://wa.me/919989918183?text=Hi%2C%20I%20want%20to%20order%20Mukunda%20Herbal%20Shampoo%20-%20200%20ml%20for%20%E2%82%B9249.%20Please%20share%20delivery%20details.">Order 200 ml</a></div>
+<div class="size"><h3>500 ml</h3><div class="amount">₹499</div><a class="btn green" href="https://wa.me/919989918183?text=Hi%2C%20I%20want%20to%20order%20Mukunda%20Herbal%20Shampoo%20-%20500%20ml%20for%20%E2%82%B9499.%20Please%20share%20delivery%20details.">Order 500 ml</a></div>
+</div></div></section>
+
+<section id="faq"><div class="inner"><div class="title"><div class="eyebrow">Questions</div><h2>Frequently Asked Questions</h2></div><div class="faq">
+<details><summary>Is it suitable for all hair types?</summary><p>The product information positions it as suitable for all hair types.</p></details>
+<details><summary>What are the ingredients?</summary><p>Amla, Reetha, Shikakai, Hibiscus, Methi Seeds, Flax Seeds, Rosemary, Aloe Vera, Curry Leaves, Neem and Tulsi.</p></details>
+<details><summary>Is it sulphate and paraben free?</summary><p>Yes, according to the product information provided.</p></details>
+<details><summary>Does it contain artificial fragrance?</summary><p>The product information states that it contains no artificial fragrance.</p></details>
+<details><summary>What sizes are available?</summary><p>200 ml for ₹249 and 500 ml for ₹499.</p></details>
+<details><summary>How can I order?</summary><p>Call or WhatsApp +91 99899 18183.</p></details>
+</div></div></section>
+
+<section class="cream"><div class="inner"><div class="title"><div class="eyebrow">Mukunda Herbals</div><h2>Discover a More Natural Hair-Care Routine.</h2><p>Mukunda Herbal Shampoo — available in 200 ml and 500 ml.</p></div><div class="buttons" style="justify-content:center"><a class="btn green" href="#order">Order Now</a><a class="btn gold" href="https://wa.me/919989918183?text=Hi%2C%20I%27m%20interested%20in%20Mukunda%20Herbal%20Shampoo.%20Please%20share%20ordering%20details.">WhatsApp Us</a><a class="btn" style="border:1px solid #d8ccb2;color:var(--g);background:#fff" href="../index.html#shop">View All Products</a></div></div></section>
+</main>
+<footer><strong>MUKUNDA HERBALS</strong><br>Pure. Natural. Traditional Wellness.<br><br>Call / WhatsApp: <a href="tel:+919989918183">+91 99899 18183</a></footer>
+<div class="sticky"><a class="wa" href="https://wa.me/919989918183?text=Hi%2C%20I%27m%20interested%20in%20Mukunda%20Herbal%20Shampoo.%20Please%20share%20ordering%20details.">💬 WhatsApp</a><a class="ord" href="#order">🛒 Order Now</a></div>
+</body></html>
